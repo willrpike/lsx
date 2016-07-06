@@ -1,0 +1,21 @@
+{
+  "name": "ls-x",
+  "version": "1.0.3",
+  "description": "Allows use of ls multiple times",
+  "main": "lib/index.js",
+  "bin": {
+    "lsx": "bin/lsx.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ls"
+  ],
+  "author": "William Pike",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7"
+  }
+}
