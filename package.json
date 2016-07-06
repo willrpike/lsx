@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "Allows use of ls multiple times",
   "main": "lib/index.js",
+  "repository": "willrpike/lsx",
   "bin": {
     "lsx": "bin/lsx.js"
   },
