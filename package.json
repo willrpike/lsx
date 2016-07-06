@@ -1,6 +1,6 @@
 {
   "name": "ls-x",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Allows use of ls multiple times",
   "main": "lib/index.js",
   "repository": "willrpike/lsx",
@@ -16,7 +16,6 @@
   "author": "William Pike",
   "license": "MIT",
   "dependencies": {
-    "fs": "0.0.2",
-    "path": "^0.12.7"
+    "fs": "0.0.2"
   }
 }
